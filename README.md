@@ -5,3 +5,7 @@ This is an "animated" version of the official example "[__Stateful Nested Naviga
 This version adds 2 animations when transitionning from one navigation branch to another:
 - A fading opacity (duration: 300ms)
 - A quick translation transformation (duration: 125ms) with a given direction according to the new index value (direction is "left-to-right" if new index is greater than previous, and "right-to-left" if new index is lesser than previous)
+
+<br><br>
+![](https://github.com/jovazcode/animated_stateful_shell_route/blob/main/screenshots/animated-stateful-shell-route.gif?raw=true)
+<br>
